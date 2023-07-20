@@ -1,0 +1,8 @@
+
+b	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(÷²€ú8‹ó‡š”1
+„
+java:S2229 "g"validateAndSaveTransaction's" @Transactional requirement is incompatible with the one for this method.(Øƒ¥š8‚šï—”1
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ê¥Ó¿
+j
+java:S1612"MReplace this lambda with method reference 'this::validateAndSaveTransaction'.(ê¥Ó¿8„šï—”1
